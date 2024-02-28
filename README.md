@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anagha-2023
-- 👀 I’m interested in Web devoloping
+- 👀 I’m interested in Web developing
 - 🌱 I’m currently learning Data Structure
 
 <!---
