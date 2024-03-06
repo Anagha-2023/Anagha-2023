@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Structure**
 
-- 💬 Ask me about **React,MERN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **anaghakb55@gmail.com**
 
