@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/anagha-k-b-312825293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anagha k b" height="30" width="40" /></a>
 <a href="https://leetcode.com/anaghaammus555/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anagha k b" height="30" width="40" /></a>
 </p>
-
+<br><br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="display: flex; justify-content: space-between;">
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="margin-right: 30px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
