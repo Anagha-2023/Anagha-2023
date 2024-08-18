@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anagha-2023&label=Profile%20views&color=0e75b6&style=flat" alt="anagha-2023" /> </p>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **MERN**
 
