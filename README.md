@@ -43,10 +43,14 @@
     <p style="display: block; margin-left: auto; margin-right: auto;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anagha-2023&" alt="anagha-2023" /></p>
 </div>
 
+<div align="center">
+<p style="display: block; margin-left: auto; margin-right: auto;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anagha-2023&show_icons=true&locale=en" alt="anagha-2023" /></p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anagha-2023&show_icons=true&locale=en&layout=compact" alt="anagha-2023" /></p>
+<div align="center">
+<p style="display: block; margin-left: auto; margin-right: auto;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anagha-2023&show_icons=true&locale=en&layout=compact" alt="anagha-2023" /></p>
+</div>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=anagha-2023&show_icons=true&locale=en" alt="anagha-2023" /></p>
 
 
 
